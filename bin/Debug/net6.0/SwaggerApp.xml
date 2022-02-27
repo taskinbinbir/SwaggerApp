@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerApp</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerApp.Controllers.WeatherForecastController.Get">
+            <summary>
+            Return Whole Weather Forecasts
+            </summary>
+            <remarks>
+             This api just get to whole **Weather Forecasts**
+            </remarks>
+            <response code="200">Get Weather Forecast</response> 
+            <response code="400">Bad Request For Weather Forecast</response> 
+        </member>
+    </members>
+</doc>
